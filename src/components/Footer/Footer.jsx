@@ -69,7 +69,7 @@ const Footer = () => {
                     </div>
 
                 <div>
-                    <p className="text-gray-400 text-[14px]">© {year} develop by Rhondel M. Pagobo - All rights reserved.</p>
+                    <p className="text-gray-400 text-[14px]">© {year} developed by Rhondel M. Pagobo - All rights reserved.</p>
                 </div>
 
                 </div>
