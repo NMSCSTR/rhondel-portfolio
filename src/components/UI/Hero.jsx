@@ -17,7 +17,7 @@ const Hero = () => {
                             data-aos-duration="1500"
                             className="text-headingColor font-[800] text-[1.8rem] sm:text-[40px] leading-[35px] sm:leading-[46px] mt-5 "
                         >
-                            I'm Rhondel M. Pagobo <br/>
+                            I'm Rhondel M. Pagobo <br />
                             Web Developer
                         </h1>
 
